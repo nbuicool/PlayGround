@@ -1,1 +1,6 @@
 AppKeyBegin##{15a65ae15}##LastAppKey
+moregameBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##Lastmoregame
+SheireBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##Sheiregame
+UrlRateUsBegin##{https://play.google.com/store/apps/details?id=com.WarriorsStudioGame.RagdollWarriorsg}##LastUrlRateUs
+IsfreedBegin##{false}##LastIsfreed
+IsIsuspendBegin##{true}##LastIsIsuspend
